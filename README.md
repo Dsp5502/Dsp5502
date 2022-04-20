@@ -3,7 +3,7 @@
 
 # Hola 👋, Mi nombre es David Puerto Guerrero
 ![Profile views](https://gpvc.arturio.dev/Dsp5502)  
-### Soy Estudiante de Desarrollo Front-End - Academia Geek
+## Soy Estudiante de Desarrollo Front-End - Academia Geek
 ![Soy Estudiante de Desarrollo Front-End - Academia Geek](https://media-exp1.licdn.com/dms/image/C4D16AQHUDsdlG9MZTQ/profile-displaybackgroundimage-shrink_350_1400/0/1649171262594?e=2147483647&v=beta&t=pa_VO3G7AoTjkyt8Uk-lhuYAXbSPSfOG6haeSLx7jYs)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dsp5502&show_icons=true) 
