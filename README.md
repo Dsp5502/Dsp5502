@@ -1,6 +1,6 @@
 <h1 align="left">Hola 👋, Mi nombre es David Puerto Guerrero</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsp5502&label=Profile%20views&color=0e75b6&style=flat" alt="dsp5502" /> </p>
-<h2 align="left">Front-End Developer - Academia Geek</h2>
+<h2 align="left">Front-End Developer</h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dsp5502&show_icons=true&locale=en" alt="dsp5502" /></p>
 
